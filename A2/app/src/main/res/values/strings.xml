@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="permission_description">to receive message from A1</string>
+</resources>

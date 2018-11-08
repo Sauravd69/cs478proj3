@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">A3</string>
+    <string name="permission_description">to receive message from A1</string>
+    <string-array name="place">
+        <item>Golden Gate Bridge</item>
+        <item>Alcatraz Island</item>
+        <item>Fishermans Wharf</item>
+        <item>Twin Peaks</item>
+        <item>Asian Art Museum</item>
+        <item>Palace of Fine Arts</item>
+    </string-array>
+    <string-array name="website">
+        <item>http://goldengatebridge.org/</item>
+        <item>https://www.alcatrazcruises.com/tour-options/</item>
+        <item>www.fishermanswharf.org/</item>
+        <item>https://sfrecpark.org/destination/twin-peaks/</item>
+        <item>http://www.asianart.org/</item>
+        <item>https://palaceoffinearts.org/</item>
+    </string-array>
+</resources>
